@@ -9,30 +9,30 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ### DELIVERABLE RESULTS:
 Below are the results from the various techniques used to predictive model for High-Risk loans.  
 
-**SMOTEENN:**  
+**Naive Random Oversampling:**  
 
-![d1](https://github.com/emmanuelmartinezs/Credit_Risk_Analysis/blob/main/Resources/Images/r4.png)
+![d1](https://github.com/Anuradha0/credit-card-risk/blob/main/Images/Naive%20Random%20Oversampling.png)
 
 **SMOTE:**  
 
-![d1](https://github.com/emmanuelmartinezs/Credit_Risk_Analysis/blob/main/Resources/Images/r2.png)
+![d1](https://github.com/Anuradha0/credit-card-risk/blob/main/Images/SMOTE.png)
 
-**RandomOverSample:**  
+**Undersampling:**  
 
-![d1](https://github.com/emmanuelmartinezs/Credit_Risk_Analysis/blob/main/Resources/Images/r1.png)
+![d1](https://github.com/Anuradha0/credit-card-risk/blob/main/Images/Undersampling.png)
 
-**ClusterCentroids:**  
+**BalancedRandomForestClassifier:**  
 
-![d1](https://github.com/emmanuelmartinezs/Credit_Risk_Analysis/blob/main/Resources/Images/r3.png)
+![d1](https://github.com/Anuradha0/credit-card-risk/blob/main/Images/BalancedRandomForestClassifier.png)
 
 
 **EasyEnsembleClassifier:**  
 
-![d1](https://github.com/emmanuelmartinezs/Credit_Risk_Analysis/blob/main/Resources/Images/r6.png)
+![d1](https://github.com/Anuradha0/credit-card-risk/blob/main/Images/EasyEnsembleClassifier.png)
 
-**BalancedRandomForestClassifier:**
+**Combination:**
 
-![d1](https://github.com/emmanuelmartinezs/Credit_Risk_Analysis/blob/main/Resources/Images/r5.png)
+![d1](https://github.com/Anuradha0/credit-card-risk/blob/main/Images/Combination.png)
 
 ## SUMMARY
 
